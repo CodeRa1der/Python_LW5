@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 a1 = int(input("Введите координату а1: "))
 b1 = int(input("Введите координаду b1: "))
 c1 = int(input("Введите координату c1: "))

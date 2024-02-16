@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 exams = int(input("Сколько экзаменов мы сдали? "))
 
 if exams > 20:
